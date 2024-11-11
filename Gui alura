@@ -1,39 +1,12 @@
-ALURAFLIX
+# AluraFlix
+Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
+## Tecnologias utilizadas
+- HTML
+- CSS
 
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha<header>ALURAFLIX</header>
+## Acessando o código
+Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
 
-
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-#homem-aranha<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p><body>
-
-<header>ALURAFLIX</header>
-
-
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-<body>
+## Notas e créditos
+Feito por Guilherme Silveira, instrutor e fundador da Alura.
